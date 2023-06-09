@@ -1,0 +1,12 @@
+{
+    "max_length": 10,
+    "temperature": 1,
+    "top_k": 40,
+    "top_p": 0.5,
+    "use_cache": "True",
+    "repetition_penalty": 1.1,
+    "do_sample": "True",
+    "length_penalty": 1,
+    "no_repeat_ngram_size": 3,
+    "num_beams": 1
+}
