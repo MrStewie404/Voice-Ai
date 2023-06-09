@@ -1,20 +1,17 @@
 import os
 os.system('cls')
-os.system("echo Загружено OS")
+os.system('echo Загрузка. Подождите...')
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
-os.system("echo Загружено TRANSFORMERS")
 import torch
-os.system("echo Загружено TORCH")
 import time
-os.system("echo Загружено TIME")
 import json
 
 # Загрузка предобученной модели и токенизатора
 model_name='sberbank-ai/rugpt3medium_based_on_gpt2'
 model = GPT2LMHeadModel.from_pretrained(model_name)#.cuda()
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
-
-os.system("echo Загружено GPT-2")
+os.system('cls')
+os.system("echo Ещё чуть-чуть...")
 
 def generate_text(text):
 	with open(f'config.json', 'r') as f:
