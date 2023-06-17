@@ -1,5 +1,3 @@
-# pip install vosk
-# pip install pyaudio
 # модели для распознавания (маленькая): https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZMWW5pOWRVZUJtNXFNcm4tTXhZNnhwVEtnQXxBQ3Jtc0tuRmdaanJaemJBdjZsR1Z0eVhJS3p3YUxBdXNjT1ZLVEl4RzNjemd4RmJYRkljQzVsVVdqYWFGUTZkRjJVcFdhenA3LU53eXI5dERMUzE4cThEc2VaNHc3bmJBd2NpaTZhZ09LWEZ3NUI5cHlteTNlRQ&q=https%3A%2F%2Fvk.com%2Faway.php%3Fto%3Dhttps%253A%252F%252Falphacephei.com%252Fkaldi%252Fmodels%252Fvosk-model-small-ru-0.4.zip%26cc_key%3D&v=XF2WVUVxAGQ
 # (большая): https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblVVVjBwM1dBOFM0M0s1ZGVfMURPUjcyeU1NUXxBQ3Jtc0tsNUt3WnVJMW93aUIyZnRaTjcxN1BSZVdkS3hkMFVDemd2WlJtY0NqM1R2Sk94Vm1EMHRJczVMNTdMZDlKczc1UTc2YUJnVUI0UDdSTThCNUJxSlpYVER0bFZuUHVvUWY4N2gtdzNudVlETXVOZUVTMA&q=https%3A%2F%2Fvk.com%2Faway.php%3Fto%3Dhttp%253A%252F%252Falphacephei.com%252Fkaldi%252Fmodels%252Fvosk-model-ru-0.10.zip%26cc_key%3D&v=XF2WVUVxAGQ
 
